@@ -1,0 +1,9 @@
+# Copy this file to terraform.tfvars and complete the missing items. Use the TF_VAR_ibmcloud_api_key to provide your API key
+resource_group_name  = ""
+region               = ""
+sm_region            = "us-south"
+ibmcloud_api_key     = ""
+vpc_name             = ""
+secrets_manager_guid = "d497af9b-1376-4120-b9ce-51666f925a81"
+name_prefix          = ""
+resource_label       = ""
